@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Author: Dr Jayan Wijesingha
+Created: 14.10.2022
+Contact: jayan.wijesingha@uni-kassel.de
+Title: Download Lansat 5, 7, 8 data using GEE
 """
 
 # import ee (Main GEE API for Python)
